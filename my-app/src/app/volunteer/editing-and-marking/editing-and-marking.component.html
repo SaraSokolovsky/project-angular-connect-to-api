@@ -1,0 +1,23 @@
+<p>editing-and-marking.component:</p>
+
+<form [formGroup]="editForm" (ngSubmit)="onSubmit()">
+  <label for="firstName">firstName:</label><br>
+  <input type="text" formControlName="firstName" name="firstName" id="firstName"/><br>
+  <label for="lastName">lastName:</label><br>
+  <input type="text" formControlName="lastName" name="lastName" id="lasttName"/><br>
+  <label for="email">email:</label><br>
+  <input type="email" formControlName="email" name="email" id="email"/><br>
+  <label for="phone">phone:</label><br>
+  <input type="text" formControlName="phone" name="phone" id="phone"/><br>
+  <label>availableDays:</label><br>
+  <div formArrayName="days">
+      <input type="checkbox" formControlName="Sunday" name="Sunday" id="Sunday"> Sunday<br>
+      <input type="checkbox" formControlName="Monday" name="Monday" id="Monday"> Monday<br>
+      <input type="checkbox" formControlName="Tuesday" name="Tuesday" id="Tuesday"> Tuesday<br>
+      <input type="checkbox" formControlName="Wednesday" name="Wednesday" id="Wednesday"> Wednesday<br>
+      <input type="checkbox" formControlName="Thursday" name="Thursday" id="Thursday"> Thursday<br>
+      <input type="checkbox" formControlName="Friday" name="Friday" id="Friday"> Friday<br>
+    </div>
+    <button type="submit">Save</button>
+
+</form>

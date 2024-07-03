@@ -1,0 +1,135 @@
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.csproj.AssemblyReference.cache
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.AssemblyInfoInputs.cache
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.AssemblyInfo.cs
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.csproj.CoreCompileInputs.cache
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cs
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cache
+D:\angular\my-server-api\bin\Debug\net6.0\appsettings.Development.json
+D:\angular\my-server-api\bin\Debug\net6.0\appsettings.json
+D:\angular\my-server-api\bin\Debug\net6.0\my-server-api.exe
+D:\angular\my-server-api\bin\Debug\net6.0\my-server-api.deps.json
+D:\angular\my-server-api\bin\Debug\net6.0\my-server-api.runtimeconfig.json
+D:\angular\my-server-api\bin\Debug\net6.0\my-server-api.dll
+D:\angular\my-server-api\bin\Debug\net6.0\my-server-api.pdb
+D:\angular\my-server-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\angular\my-server-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\angular\my-server-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\angular\my-server-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\angular\my-server-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\angular\my-server-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\angular\my-server-api\obj\Debug\net6.0\scopedcss\bundle\my-server-api.styles.css
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.csproj.CopyComplete
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.dll
+D:\angular\my-server-api\obj\Debug\net6.0\refint\my-server-api.dll
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.pdb
+D:\angular\my-server-api\obj\Debug\net6.0\my-server-api.genruntimeconfig.cache
+D:\angular\my-server-api\obj\Debug\net6.0\ref\my-server-api.dll
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.csproj.AssemblyReference.cache
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfoInputs.cache
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfo.cs
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CoreCompileInputs.cache
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cs
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cache
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.dll
+D:\angular\server-project-api\obj\Debug\net6.0\refint\my-server-api.dll
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.pdb
+D:\angular\server-project-api\bin\Debug\net6.0\appsettings.Development.json
+D:\angular\server-project-api\bin\Debug\net6.0\appsettings.json
+D:\angular\server-project-api\bin\Debug\net6.0\my-server-api.exe
+D:\angular\server-project-api\bin\Debug\net6.0\my-server-api.deps.json
+D:\angular\server-project-api\bin\Debug\net6.0\my-server-api.runtimeconfig.json
+D:\angular\server-project-api\bin\Debug\net6.0\my-server-api.dll
+D:\angular\server-project-api\bin\Debug\net6.0\my-server-api.pdb
+D:\angular\server-project-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\angular\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\angular\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\angular\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\angular\server-project-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\angular\server-project-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\angular\server-project-api\obj\Debug\net6.0\scopedcss\bundle\my-server-api.styles.css
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CopyComplete
+D:\angular\server-project-api\obj\Debug\net6.0\my-server-api.genruntimeconfig.cache
+D:\angular\server-project-api\obj\Debug\net6.0\ref\my-server-api.dll
+E:\project angular\server-project-api\bin\Debug\net6.0\appsettings.Development.json
+E:\project angular\server-project-api\bin\Debug\net6.0\appsettings.json
+E:\project angular\server-project-api\bin\Debug\net6.0\my-server-api.exe
+E:\project angular\server-project-api\bin\Debug\net6.0\my-server-api.deps.json
+E:\project angular\server-project-api\bin\Debug\net6.0\my-server-api.runtimeconfig.json
+E:\project angular\server-project-api\bin\Debug\net6.0\my-server-api.dll
+E:\project angular\server-project-api\bin\Debug\net6.0\my-server-api.pdb
+E:\project angular\server-project-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\project angular\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\project angular\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\project angular\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.csproj.AssemblyReference.cache
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfoInputs.cache
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfo.cs
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CoreCompileInputs.cache
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cs
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cache
+E:\project angular\server-project-api\obj\Debug\net6.0\staticwebassets.build.json
+E:\project angular\server-project-api\obj\Debug\net6.0\staticwebassets.development.json
+E:\project angular\server-project-api\obj\Debug\net6.0\scopedcss\bundle\my-server-api.styles.css
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CopyComplete
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.dll
+E:\project angular\server-project-api\obj\Debug\net6.0\refint\my-server-api.dll
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.pdb
+E:\project angular\server-project-api\obj\Debug\net6.0\my-server-api.genruntimeconfig.cache
+E:\project angular\server-project-api\obj\Debug\net6.0\ref\my-server-api.dll
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\appsettings.Development.json
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\appsettings.json
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\my-server-api.exe
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\my-server-api.deps.json
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\my-server-api.runtimeconfig.json
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\my-server-api.dll
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\my-server-api.pdb
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\angular\project\project\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.csproj.AssemblyReference.cache
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfoInputs.cache
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfo.cs
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CoreCompileInputs.cache
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cs
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cache
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\staticwebassets.build.json
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\staticwebassets.development.json
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\scopedcss\bundle\my-server-api.styles.css
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CopyComplete
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.dll
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\refint\my-server-api.dll
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.pdb
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\my-server-api.genruntimeconfig.cache
+E:\angular\project\project\server-project-api\obj\Debug\net6.0\ref\my-server-api.dll
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\appsettings.Development.json
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\appsettings.json
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\my-server-api.exe
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\my-server-api.deps.json
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\my-server-api.runtimeconfig.json
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\my-server-api.dll
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\my-server-api.pdb
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project-angular-connect-to-api\server-project-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.csproj.AssemblyReference.cache
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfoInputs.cache
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.AssemblyInfo.cs
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CoreCompileInputs.cache
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cs
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.MvcApplicationPartsAssemblyInfo.cache
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\scopedcss\bundle\my-server-api.styles.css
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.csproj.CopyComplete
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.dll
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\refint\my-server-api.dll
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.pdb
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\my-server-api.genruntimeconfig.cache
+D:\project-angular-connect-to-api\server-project-api\obj\Debug\net6.0\ref\my-server-api.dll

@@ -1,0 +1,36 @@
+<p>volunteer-list:</p>
+
+<ul class="list-group">
+    <li class="list-group-item">
+        <div class="row" >
+            <div class="col-1">
+                id:
+            </div>
+            <div class="col-2">
+                name:
+            </div>
+            <div class="col-3">
+              email:
+          </div>
+          <div class="col-3">
+            phone:
+        </div>
+        </div>
+    </li>
+    <li *ngFor="let volunteer of volunteerArr" class="list-group-item">
+        <div class="row" (click)="edit(volunteer)" >
+            <div class="col-1">
+                {{volunteer.id}}
+            </div>
+            <div class="col-2">
+                {{volunteer.firstName}} {{volunteer.lastName}}
+            </div>
+            <div class="col-3">
+              {{volunteer.email}}
+          </div>
+          <div class="col-4">
+            {{volunteer.phone}}
+        </div>
+        </div>
+    </li>
+</ul>

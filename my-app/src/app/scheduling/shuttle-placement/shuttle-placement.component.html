@@ -1,0 +1,27 @@
+<div>
+  <form [formGroup]="scheduleForm" *ngIf="flag">
+      <h3>transportation scheduling</h3>
+      <table class="table table-sm">
+          <thead>
+              <tr>
+                  <th *ngFor="let day of _daysOfWeek;index as i" scope="col-4">
+                      <p>{{_daysOfWeek[i]}}</p>
+                  </th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td *ngFor="let d of idForDay.controls ;index as i" formArrayName="idForDay" class="day">
+                      <select [formControlName]="i" [ngClass]="{'choosedday': d.value>0}">
+                          <option *ngFor="let v of this.getVolunteerPerDay(i)" [value]="v.id">{{v.firstName}} {{v.lastName}}
+                          </option>
+                      </select>
+                  </td>
+              </tr>
+          </tbody>
+      </table>
+  </form>
+  <div>
+      <button class="btn btn-dark" (click)="saveSchedule()">Save scheduling</button>
+  </div>
+</div>
