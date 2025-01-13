@@ -1,16 +1,12 @@
-namespace server_project_api;
-
-public class Volunteer
+namespace server_project_api.Models
 {
-    public int id { get; set; }
-
-    public string firstName { get; set; }
-
-    public string lastName { get; set; }
-    
-    public string email { get; set; }
-
-    public string phone { get; set; }
-    
-    public bool[] days { get; set; }
+    public class Volunteer
+    {
+    public int Id { get; set; }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public string Email { get; set; }
+    public string Phone { get; set; }
+    public int Schedule { get; set; }
+    }  
 }

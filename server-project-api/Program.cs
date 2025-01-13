@@ -1,5 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-var  MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 // Add services to the container.
 builder.Services.AddCors(options =>
@@ -7,13 +7,11 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
                       policy =>
                       {
-                        policy.WithOrigins("http://localhost:4200");
-                        policy.AllowAnyMethod();
-                        policy.AllowAnyHeader();  
-                        policy.AllowAnyOrigin();
+                          policy.WithOrigins("http://localhost:4200")  // מאפשר רק את הכתובת הזו
+                                .AllowAnyMethod()
+                                .AllowAnyHeader();
                       });
 });
-
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -25,11 +23,11 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-   // app.UseCors();
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-app.UseCors(MyAllowSpecificOrigins);
+
+app.UseCors(MyAllowSpecificOrigins);  // השתמש במדיניות CORS שהגדרת
 
 app.UseHttpsRedirection();
 
